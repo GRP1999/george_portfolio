@@ -1,3 +1,6 @@
+--Baseball Statistics Analysis: SQL Data Manipulation Project
+
+
 SELECT *
 FROM RaysPitching.Dbo.LastPitchRays
 
