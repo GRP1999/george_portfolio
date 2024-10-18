@@ -1,4 +1,4 @@
---Baseball Statistics Analysis:  Data Manipulation Project
+--Baseball Statistics Analysis:  Data Exploration Project
 
 
 SELECT *
